@@ -127,4 +127,3 @@ def view_applied_candidates():
         print("Result",result,type(result))
         return result
     
-

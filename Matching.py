@@ -163,6 +163,3 @@ def Matching():
     print("Overall Similarity between resume and jd is ",matching )
 
     return matching;
-
-
-
